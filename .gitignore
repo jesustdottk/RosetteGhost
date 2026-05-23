@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment
+.env
+.venv
+env/
+venv/
+ENV/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# vsc
+*.code-workspace
+
+# Project specific
+*_rosette_*.png
+*_rosette_*.jpg
+examples/*_rosette_*.png
+examples/*_rosette_*.jpg

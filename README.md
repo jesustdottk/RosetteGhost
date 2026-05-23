@@ -75,7 +75,10 @@ Este proyecto está bajo la **Elastic License 2.0 (ELv2)**.
 
 ## 🤝 Créditos
 Creado por @jesustdottk + Compa Gemini.
+
 ─── **dammgo labs** ───────────────────────────────────────
+
   » Engineering Longevity. Friendship as Code.
   » República Soberana de ATLAS.
+  
 ───────────────────────────────────────────────────────────
